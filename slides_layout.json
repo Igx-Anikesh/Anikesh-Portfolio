@@ -1,0 +1,1824 @@
+[
+  {
+    "slide_num": 1,
+    "width": 18288000,
+    "height": 10287000,
+    "elements": [
+      {
+        "type": "image",
+        "x_pct": 0.0,
+        "y_pct": 0.0,
+        "w_pct": 64.23,
+        "h_pct": 133.33,
+        "image_file": "image1.jpeg"
+      },
+      {
+        "type": "image",
+        "x_pct": 0.0,
+        "y_pct": 0.0,
+        "w_pct": 64.23,
+        "h_pct": 188.67,
+        "image_file": "image1.jpeg"
+      },
+      {
+        "type": "shape",
+        "x_pct": 77.9,
+        "y_pct": 18.11,
+        "w_pct": 35.5,
+        "h_pct": 0.0,
+        "text": []
+      },
+      {
+        "type": "shape",
+        "x_pct": 0.0,
+        "y_pct": 0.0,
+        "w_pct": 11.48,
+        "h_pct": 7.9,
+        "text": []
+      },
+      {
+        "type": "shape",
+        "x_pct": 0.0,
+        "y_pct": -0.37,
+        "w_pct": 11.48,
+        "h_pct": 8.27,
+        "text": []
+      },
+      {
+        "type": "shape",
+        "x_pct": 76.31,
+        "y_pct": 42.21,
+        "w_pct": 1.97,
+        "h_pct": 3.51,
+        "text": []
+      },
+      {
+        "type": "text",
+        "x_pct": 63.92,
+        "y_pct": 9.27,
+        "w_pct": 36.08,
+        "h_pct": 30.19,
+        "text": [
+          "My Portfolio"
+        ]
+      },
+      {
+        "type": "text",
+        "x_pct": 93.43,
+        "y_pct": 93.46,
+        "w_pct": 4.43,
+        "h_pct": 1.92,
+        "text": [
+          "Page | 01"
+        ]
+      },
+      {
+        "type": "text",
+        "x_pct": 78.73,
+        "y_pct": 52.5,
+        "w_pct": 38.37,
+        "h_pct": 3.96,
+        "text": [
+          "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud "
+        ]
+      },
+      {
+        "type": "text",
+        "x_pct": 64.97,
+        "y_pct": 42.91,
+        "w_pct": 8.95,
+        "h_pct": 1.92,
+        "text": [
+          "Explore Now"
+        ]
+      },
+      {
+        "type": "text",
+        "x_pct": 79.15,
+        "y_pct": 42.91,
+        "w_pct": 5.98,
+        "h_pct": 1.92,
+        "text": [
+          "Play Video"
+        ]
+      }
+    ]
+  },
+  {
+    "slide_num": 2,
+    "width": 18288000,
+    "height": 10287000,
+    "elements": [
+      {
+        "type": "image",
+        "x_pct": 0.0,
+        "y_pct": 0.0,
+        "w_pct": 44.93,
+        "h_pct": 79.88,
+        "image_file": "image4.jpeg"
+      },
+      {
+        "type": "shape",
+        "x_pct": 0.0,
+        "y_pct": 0.0,
+        "w_pct": 26.34,
+        "h_pct": 2.63,
+        "text": []
+      },
+      {
+        "type": "shape",
+        "x_pct": 0.0,
+        "y_pct": -0.37,
+        "w_pct": 26.34,
+        "h_pct": 3.0,
+        "text": []
+      },
+      {
+        "type": "shape",
+        "x_pct": 0.0,
+        "y_pct": 0.0,
+        "w_pct": 0.7,
+        "h_pct": 0.09,
+        "text": []
+      },
+      {
+        "type": "shape",
+        "x_pct": 0.0,
+        "y_pct": -0.37,
+        "w_pct": 0.7,
+        "h_pct": 0.46,
+        "text": []
+      },
+      {
+        "type": "shape",
+        "x_pct": 0.0,
+        "y_pct": 0.0,
+        "w_pct": 0.7,
+        "h_pct": 0.09,
+        "text": []
+      },
+      {
+        "type": "shape",
+        "x_pct": 0.0,
+        "y_pct": -0.37,
+        "w_pct": 0.7,
+        "h_pct": 0.46,
+        "text": []
+      },
+      {
+        "type": "shape",
+        "x_pct": 10.79,
+        "y_pct": 32.84,
+        "w_pct": 7.67,
+        "h_pct": 0.0,
+        "text": []
+      },
+      {
+        "type": "text",
+        "x_pct": 3.08,
+        "y_pct": 3.95,
+        "w_pct": 15.42,
+        "h_pct": 1.92,
+        "text": [
+          "Adeline Palmerston"
+        ]
+      },
+      {
+        "type": "text",
+        "x_pct": 87.17,
+        "y_pct": 3.95,
+        "w_pct": 5.35,
+        "h_pct": 1.92,
+        "text": [
+          "Contact"
+        ]
+      },
+      {
+        "type": "text",
+        "x_pct": 78.66,
+        "y_pct": 3.95,
+        "w_pct": 5.8,
+        "h_pct": 1.92,
+        "text": [
+          "About Me"
+        ]
+      },
+      {
+        "type": "text",
+        "x_pct": 71.93,
+        "y_pct": 3.95,
+        "w_pct": 4.02,
+        "h_pct": 1.92,
+        "text": [
+          "Photo"
+        ]
+      },
+      {
+        "type": "text",
+        "x_pct": 65.06,
+        "y_pct": 3.95,
+        "w_pct": 4.43,
+        "h_pct": 1.92,
+        "text": [
+          "Home"
+        ]
+      },
+      {
+        "type": "text",
+        "x_pct": 93.43,
+        "y_pct": 93.46,
+        "w_pct": 4.43,
+        "h_pct": 1.92,
+        "text": [
+          "Page | 02"
+        ]
+      },
+      {
+        "type": "text",
+        "x_pct": 10.79,
+        "y_pct": 22.93,
+        "w_pct": 31.93,
+        "h_pct": 8.35,
+        "text": [
+          "Introduction"
+        ]
+      },
+      {
+        "type": "text",
+        "x_pct": 10.79,
+        "y_pct": 42.11,
+        "w_pct": 36.3,
+        "h_pct": 10.07,
+        "text": [
+          "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt"
+        ]
+      },
+      {
+        "type": "text",
+        "x_pct": 10.79,
+        "y_pct": 65.43,
+        "w_pct": 15.96,
+        "h_pct": 12.1,
+        "text": [
+          "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo"
+        ]
+      },
+      {
+        "type": "text",
+        "x_pct": 10.79,
+        "y_pct": 61.08,
+        "w_pct": 13.01,
+        "h_pct": 2.34,
+        "text": [
+          "About Me"
+        ]
+      },
+      {
+        "type": "text",
+        "x_pct": 31.12,
+        "y_pct": 65.43,
+        "w_pct": 15.96,
+        "h_pct": 12.1,
+        "text": [
+          "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo"
+        ]
+      },
+      {
+        "type": "text",
+        "x_pct": 31.12,
+        "y_pct": 61.08,
+        "w_pct": 13.01,
+        "h_pct": 2.34,
+        "text": [
+          "About Portfolio"
+        ]
+      }
+    ]
+  },
+  {
+    "slide_num": 3,
+    "width": 18288000,
+    "height": 10287000,
+    "elements": [
+      {
+        "type": "image",
+        "x_pct": 0.0,
+        "y_pct": 0.0,
+        "w_pct": 30.0,
+        "h_pct": 53.33,
+        "image_file": "image5.jpeg"
+      },
+      {
+        "type": "image",
+        "x_pct": 0.0,
+        "y_pct": 0.0,
+        "w_pct": 49.51,
+        "h_pct": 53.33,
+        "image_file": "image6.jpeg"
+      },
+      {
+        "type": "image",
+        "x_pct": 0.0,
+        "y_pct": 0.0,
+        "w_pct": 49.51,
+        "h_pct": 53.33,
+        "image_file": "image7.jpeg"
+      },
+      {
+        "type": "shape",
+        "x_pct": 0.0,
+        "y_pct": 0.0,
+        "w_pct": 26.34,
+        "h_pct": 2.63,
+        "text": []
+      },
+      {
+        "type": "shape",
+        "x_pct": 0.0,
+        "y_pct": -0.37,
+        "w_pct": 26.34,
+        "h_pct": 3.0,
+        "text": []
+      },
+      {
+        "type": "shape",
+        "x_pct": 0.0,
+        "y_pct": 0.0,
+        "w_pct": 0.7,
+        "h_pct": 0.09,
+        "text": []
+      },
+      {
+        "type": "shape",
+        "x_pct": 0.0,
+        "y_pct": -0.37,
+        "w_pct": 0.7,
+        "h_pct": 0.46,
+        "text": []
+      },
+      {
+        "type": "shape",
+        "x_pct": 0.0,
+        "y_pct": 0.0,
+        "w_pct": 0.7,
+        "h_pct": 0.09,
+        "text": []
+      },
+      {
+        "type": "shape",
+        "x_pct": 0.0,
+        "y_pct": -0.37,
+        "w_pct": 0.7,
+        "h_pct": 0.46,
+        "text": []
+      },
+      {
+        "type": "shape",
+        "x_pct": 12.12,
+        "y_pct": 73.47,
+        "w_pct": 7.67,
+        "h_pct": 0.0,
+        "text": []
+      },
+      {
+        "type": "text",
+        "x_pct": 3.08,
+        "y_pct": 3.95,
+        "w_pct": 15.42,
+        "h_pct": 1.92,
+        "text": [
+          "Adeline Palmerston"
+        ]
+      },
+      {
+        "type": "text",
+        "x_pct": 87.17,
+        "y_pct": 3.95,
+        "w_pct": 5.35,
+        "h_pct": 1.92,
+        "text": [
+          "Contact"
+        ]
+      },
+      {
+        "type": "text",
+        "x_pct": 78.66,
+        "y_pct": 3.95,
+        "w_pct": 5.8,
+        "h_pct": 1.92,
+        "text": [
+          "About Me"
+        ]
+      },
+      {
+        "type": "text",
+        "x_pct": 71.93,
+        "y_pct": 3.95,
+        "w_pct": 4.02,
+        "h_pct": 1.92,
+        "text": [
+          "Photo"
+        ]
+      },
+      {
+        "type": "text",
+        "x_pct": 65.06,
+        "y_pct": 3.95,
+        "w_pct": 4.43,
+        "h_pct": 1.92,
+        "text": [
+          "Home"
+        ]
+      },
+      {
+        "type": "text",
+        "x_pct": 93.43,
+        "y_pct": 93.46,
+        "w_pct": 4.43,
+        "h_pct": 1.92,
+        "text": [
+          "Page | 03"
+        ]
+      },
+      {
+        "type": "text",
+        "x_pct": 12.12,
+        "y_pct": 63.56,
+        "w_pct": 23.28,
+        "h_pct": 8.35,
+        "text": [
+          "About Me"
+        ]
+      },
+      {
+        "type": "text",
+        "x_pct": 45.17,
+        "y_pct": 67.18,
+        "w_pct": 15.96,
+        "h_pct": 12.1,
+        "text": [
+          "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo"
+        ]
+      },
+      {
+        "type": "text",
+        "x_pct": 45.17,
+        "y_pct": 62.82,
+        "w_pct": 13.01,
+        "h_pct": 2.34,
+        "text": [
+          "My Vision"
+        ]
+      },
+      {
+        "type": "text",
+        "x_pct": 71.91,
+        "y_pct": 67.18,
+        "w_pct": 15.96,
+        "h_pct": 12.1,
+        "text": [
+          "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo"
+        ]
+      },
+      {
+        "type": "text",
+        "x_pct": 71.91,
+        "y_pct": 62.82,
+        "w_pct": 13.01,
+        "h_pct": 2.34,
+        "text": [
+          "My Mission"
+        ]
+      }
+    ]
+  },
+  {
+    "slide_num": 4,
+    "width": 18288000,
+    "height": 10287000,
+    "elements": [
+      {
+        "type": "image",
+        "x_pct": 0.0,
+        "y_pct": 0.0,
+        "w_pct": 34.43,
+        "h_pct": 106.67,
+        "image_file": "image8.png"
+      },
+      {
+        "type": "image",
+        "x_pct": 0.0,
+        "y_pct": 0.0,
+        "w_pct": 34.43,
+        "h_pct": 106.67,
+        "image_file": "image9.jpeg"
+      },
+      {
+        "type": "image",
+        "x_pct": 0.0,
+        "y_pct": 0.0,
+        "w_pct": 34.43,
+        "h_pct": 106.67,
+        "image_file": "image9.jpeg"
+      },
+      {
+        "type": "image",
+        "x_pct": 0.0,
+        "y_pct": 0.0,
+        "w_pct": 34.43,
+        "h_pct": 106.67,
+        "image_file": "image9.jpeg"
+      },
+      {
+        "type": "shape",
+        "x_pct": 69.41,
+        "y_pct": 33.14,
+        "w_pct": 7.67,
+        "h_pct": 0.0,
+        "text": []
+      },
+      {
+        "type": "text",
+        "x_pct": 93.43,
+        "y_pct": 93.46,
+        "w_pct": 4.43,
+        "h_pct": 1.92,
+        "text": [
+          "Page | 04"
+        ]
+      },
+      {
+        "type": "text",
+        "x_pct": 69.41,
+        "y_pct": 23.23,
+        "w_pct": 23.28,
+        "h_pct": 8.35,
+        "text": [
+          "My Vision"
+        ]
+      },
+      {
+        "type": "text",
+        "x_pct": 76.22,
+        "y_pct": 43.97,
+        "w_pct": 21.64,
+        "h_pct": 12.1,
+        "text": [
+          "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit "
+        ]
+      },
+      {
+        "type": "text",
+        "x_pct": 69.41,
+        "y_pct": 42.25,
+        "w_pct": 6.09,
+        "h_pct": 8.05,
+        "text": [
+          "01."
+        ]
+      },
+      {
+        "type": "text",
+        "x_pct": 76.22,
+        "y_pct": 64.64,
+        "w_pct": 21.64,
+        "h_pct": 12.1,
+        "text": [
+          "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit "
+        ]
+      },
+      {
+        "type": "text",
+        "x_pct": 69.41,
+        "y_pct": 62.93,
+        "w_pct": 6.09,
+        "h_pct": 8.05,
+        "text": [
+          "02."
+        ]
+      }
+    ]
+  },
+  {
+    "slide_num": 5,
+    "width": 18288000,
+    "height": 10287000,
+    "elements": [
+      {
+        "type": "image",
+        "x_pct": 0.0,
+        "y_pct": 0.0,
+        "w_pct": 29.34,
+        "h_pct": 52.17,
+        "image_file": "image10.jpeg"
+      },
+      {
+        "type": "image",
+        "x_pct": 0.0,
+        "y_pct": 0.0,
+        "w_pct": 29.34,
+        "h_pct": 52.17,
+        "image_file": "image11.jpeg"
+      },
+      {
+        "type": "image",
+        "x_pct": 0.0,
+        "y_pct": 0.0,
+        "w_pct": 29.34,
+        "h_pct": 52.17,
+        "image_file": "image12.jpeg"
+      },
+      {
+        "type": "image",
+        "x_pct": 0.0,
+        "y_pct": 0.0,
+        "w_pct": 29.34,
+        "h_pct": 52.17,
+        "image_file": "image13.jpeg"
+      },
+      {
+        "type": "shape",
+        "x_pct": 0.0,
+        "y_pct": 0.0,
+        "w_pct": 26.34,
+        "h_pct": 2.63,
+        "text": []
+      },
+      {
+        "type": "shape",
+        "x_pct": 0.0,
+        "y_pct": -0.37,
+        "w_pct": 26.34,
+        "h_pct": 3.0,
+        "text": []
+      },
+      {
+        "type": "shape",
+        "x_pct": 0.0,
+        "y_pct": 0.0,
+        "w_pct": 0.7,
+        "h_pct": 0.09,
+        "text": []
+      },
+      {
+        "type": "shape",
+        "x_pct": 0.0,
+        "y_pct": -0.37,
+        "w_pct": 0.7,
+        "h_pct": 0.46,
+        "text": []
+      },
+      {
+        "type": "shape",
+        "x_pct": 0.0,
+        "y_pct": 0.0,
+        "w_pct": 0.7,
+        "h_pct": 0.09,
+        "text": []
+      },
+      {
+        "type": "shape",
+        "x_pct": 0.0,
+        "y_pct": -0.37,
+        "w_pct": 0.7,
+        "h_pct": 0.46,
+        "text": []
+      },
+      {
+        "type": "shape",
+        "x_pct": 10.79,
+        "y_pct": 30.37,
+        "w_pct": 7.67,
+        "h_pct": 0.0,
+        "text": []
+      },
+      {
+        "type": "text",
+        "x_pct": 3.08,
+        "y_pct": 3.95,
+        "w_pct": 15.42,
+        "h_pct": 1.92,
+        "text": [
+          "Adeline Palmerston"
+        ]
+      },
+      {
+        "type": "text",
+        "x_pct": 87.17,
+        "y_pct": 3.95,
+        "w_pct": 5.35,
+        "h_pct": 1.92,
+        "text": [
+          "Contact"
+        ]
+      },
+      {
+        "type": "text",
+        "x_pct": 78.66,
+        "y_pct": 3.95,
+        "w_pct": 5.8,
+        "h_pct": 1.92,
+        "text": [
+          "About Me"
+        ]
+      },
+      {
+        "type": "text",
+        "x_pct": 71.93,
+        "y_pct": 3.95,
+        "w_pct": 4.02,
+        "h_pct": 1.92,
+        "text": [
+          "Photo"
+        ]
+      },
+      {
+        "type": "text",
+        "x_pct": 65.06,
+        "y_pct": 3.95,
+        "w_pct": 4.43,
+        "h_pct": 1.92,
+        "text": [
+          "Home"
+        ]
+      },
+      {
+        "type": "text",
+        "x_pct": 93.43,
+        "y_pct": 93.46,
+        "w_pct": 4.43,
+        "h_pct": 1.92,
+        "text": [
+          "Page | 05"
+        ]
+      },
+      {
+        "type": "text",
+        "x_pct": 10.79,
+        "y_pct": 20.46,
+        "w_pct": 26.47,
+        "h_pct": 8.35,
+        "text": [
+          "My Mission"
+        ]
+      },
+      {
+        "type": "text",
+        "x_pct": 17.6,
+        "y_pct": 38.14,
+        "w_pct": 28.46,
+        "h_pct": 6.0,
+        "text": [
+          "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris "
+        ]
+      },
+      {
+        "type": "text",
+        "x_pct": 10.79,
+        "y_pct": 36.7,
+        "w_pct": 6.09,
+        "h_pct": 8.05,
+        "text": [
+          "01."
+        ]
+      },
+      {
+        "type": "text",
+        "x_pct": 17.6,
+        "y_pct": 49.89,
+        "w_pct": 28.46,
+        "h_pct": 6.0,
+        "text": [
+          "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris "
+        ]
+      },
+      {
+        "type": "text",
+        "x_pct": 10.79,
+        "y_pct": 48.45,
+        "w_pct": 6.09,
+        "h_pct": 8.05,
+        "text": [
+          "02."
+        ]
+      },
+      {
+        "type": "text",
+        "x_pct": 17.6,
+        "y_pct": 61.64,
+        "w_pct": 28.46,
+        "h_pct": 6.0,
+        "text": [
+          "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris "
+        ]
+      },
+      {
+        "type": "text",
+        "x_pct": 10.79,
+        "y_pct": 60.2,
+        "w_pct": 6.09,
+        "h_pct": 8.05,
+        "text": [
+          "03."
+        ]
+      },
+      {
+        "type": "text",
+        "x_pct": 17.6,
+        "y_pct": 73.39,
+        "w_pct": 28.46,
+        "h_pct": 6.0,
+        "text": [
+          "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris "
+        ]
+      },
+      {
+        "type": "text",
+        "x_pct": 10.79,
+        "y_pct": 71.95,
+        "w_pct": 6.09,
+        "h_pct": 8.05,
+        "text": [
+          "04."
+        ]
+      }
+    ]
+  },
+  {
+    "slide_num": 6,
+    "width": 18288000,
+    "height": 10287000,
+    "elements": [
+      {
+        "type": "image",
+        "x_pct": 0.0,
+        "y_pct": 0.0,
+        "w_pct": 53.47,
+        "h_pct": 41.19,
+        "image_file": "image14.png"
+      },
+      {
+        "type": "image",
+        "x_pct": 0.0,
+        "y_pct": 0.0,
+        "w_pct": 53.47,
+        "h_pct": 41.19,
+        "image_file": "image15.jpeg"
+      },
+      {
+        "type": "shape",
+        "x_pct": 0.0,
+        "y_pct": 0.0,
+        "w_pct": 26.34,
+        "h_pct": 2.63,
+        "text": []
+      },
+      {
+        "type": "shape",
+        "x_pct": 0.0,
+        "y_pct": -0.37,
+        "w_pct": 26.34,
+        "h_pct": 3.0,
+        "text": []
+      },
+      {
+        "type": "shape",
+        "x_pct": 0.0,
+        "y_pct": 0.0,
+        "w_pct": 0.7,
+        "h_pct": 0.09,
+        "text": []
+      },
+      {
+        "type": "shape",
+        "x_pct": 0.0,
+        "y_pct": -0.37,
+        "w_pct": 0.7,
+        "h_pct": 0.46,
+        "text": []
+      },
+      {
+        "type": "shape",
+        "x_pct": 0.0,
+        "y_pct": 0.0,
+        "w_pct": 0.7,
+        "h_pct": 0.09,
+        "text": []
+      },
+      {
+        "type": "shape",
+        "x_pct": 0.0,
+        "y_pct": -0.37,
+        "w_pct": 0.7,
+        "h_pct": 0.46,
+        "text": []
+      },
+      {
+        "type": "shape",
+        "x_pct": 46.17,
+        "y_pct": 28.52,
+        "w_pct": 7.67,
+        "h_pct": 0.0,
+        "text": []
+      },
+      {
+        "type": "text",
+        "x_pct": 3.08,
+        "y_pct": 3.95,
+        "w_pct": 15.42,
+        "h_pct": 1.92,
+        "text": [
+          "Adeline Palmerston"
+        ]
+      },
+      {
+        "type": "text",
+        "x_pct": 87.17,
+        "y_pct": 3.95,
+        "w_pct": 5.35,
+        "h_pct": 1.92,
+        "text": [
+          "Contact"
+        ]
+      },
+      {
+        "type": "text",
+        "x_pct": 78.66,
+        "y_pct": 3.95,
+        "w_pct": 5.8,
+        "h_pct": 1.92,
+        "text": [
+          "About Me"
+        ]
+      },
+      {
+        "type": "text",
+        "x_pct": 71.93,
+        "y_pct": 3.95,
+        "w_pct": 4.02,
+        "h_pct": 1.92,
+        "text": [
+          "Photo"
+        ]
+      },
+      {
+        "type": "text",
+        "x_pct": 65.06,
+        "y_pct": 3.95,
+        "w_pct": 4.43,
+        "h_pct": 1.92,
+        "text": [
+          "Home"
+        ]
+      },
+      {
+        "type": "text",
+        "x_pct": 93.43,
+        "y_pct": 93.46,
+        "w_pct": 4.43,
+        "h_pct": 1.92,
+        "text": [
+          "Page | 06"
+        ]
+      },
+      {
+        "type": "text",
+        "x_pct": 20.91,
+        "y_pct": 18.61,
+        "w_pct": 58.18,
+        "h_pct": 8.35,
+        "text": [
+          "My Favorite Portfolio"
+        ]
+      },
+      {
+        "type": "text",
+        "x_pct": 11.89,
+        "y_pct": 75.86,
+        "w_pct": 33.42,
+        "h_pct": 6.0,
+        "text": [
+          "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo"
+        ]
+      },
+      {
+        "type": "text",
+        "x_pct": 22.09,
+        "y_pct": 70.58,
+        "w_pct": 13.01,
+        "h_pct": 2.89,
+        "text": [
+          "Portfolio 01"
+        ]
+      },
+      {
+        "type": "text",
+        "x_pct": 54.7,
+        "y_pct": 75.86,
+        "w_pct": 33.42,
+        "h_pct": 6.0,
+        "text": [
+          "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo"
+        ]
+      },
+      {
+        "type": "text",
+        "x_pct": 64.9,
+        "y_pct": 70.58,
+        "w_pct": 13.01,
+        "h_pct": 2.89,
+        "text": [
+          "Portfolio 02"
+        ]
+      }
+    ]
+  },
+  {
+    "slide_num": 7,
+    "width": 18288000,
+    "height": 10287000,
+    "elements": [
+      {
+        "type": "image",
+        "x_pct": 0.0,
+        "y_pct": 0.0,
+        "w_pct": 20.12,
+        "h_pct": 35.76,
+        "image_file": "image16.jpeg"
+      },
+      {
+        "type": "image",
+        "x_pct": 0.0,
+        "y_pct": 0.0,
+        "w_pct": 20.12,
+        "h_pct": 35.76,
+        "image_file": "image17.jpeg"
+      },
+      {
+        "type": "image",
+        "x_pct": 0.0,
+        "y_pct": 0.0,
+        "w_pct": 20.12,
+        "h_pct": 35.76,
+        "image_file": "image18.jpeg"
+      },
+      {
+        "type": "image",
+        "x_pct": 0.0,
+        "y_pct": 0.0,
+        "w_pct": 20.12,
+        "h_pct": 35.76,
+        "image_file": "image19.jpeg"
+      },
+      {
+        "type": "shape",
+        "x_pct": 0.0,
+        "y_pct": 0.0,
+        "w_pct": 26.34,
+        "h_pct": 2.63,
+        "text": []
+      },
+      {
+        "type": "shape",
+        "x_pct": 0.0,
+        "y_pct": -0.37,
+        "w_pct": 26.34,
+        "h_pct": 3.0,
+        "text": []
+      },
+      {
+        "type": "shape",
+        "x_pct": 0.0,
+        "y_pct": 0.0,
+        "w_pct": 0.7,
+        "h_pct": 0.09,
+        "text": []
+      },
+      {
+        "type": "shape",
+        "x_pct": 0.0,
+        "y_pct": -0.37,
+        "w_pct": 0.7,
+        "h_pct": 0.46,
+        "text": []
+      },
+      {
+        "type": "shape",
+        "x_pct": 0.0,
+        "y_pct": 0.0,
+        "w_pct": 0.7,
+        "h_pct": 0.09,
+        "text": []
+      },
+      {
+        "type": "shape",
+        "x_pct": 0.0,
+        "y_pct": -0.37,
+        "w_pct": 0.7,
+        "h_pct": 0.46,
+        "text": []
+      },
+      {
+        "type": "shape",
+        "x_pct": 46.17,
+        "y_pct": 28.7,
+        "w_pct": 7.67,
+        "h_pct": 0.0,
+        "text": []
+      },
+      {
+        "type": "text",
+        "x_pct": 3.08,
+        "y_pct": 3.95,
+        "w_pct": 15.42,
+        "h_pct": 1.92,
+        "text": [
+          "Adeline Palmerston"
+        ]
+      },
+      {
+        "type": "text",
+        "x_pct": 87.17,
+        "y_pct": 3.95,
+        "w_pct": 5.35,
+        "h_pct": 1.92,
+        "text": [
+          "Contact"
+        ]
+      },
+      {
+        "type": "text",
+        "x_pct": 78.66,
+        "y_pct": 3.95,
+        "w_pct": 5.8,
+        "h_pct": 1.92,
+        "text": [
+          "About Me"
+        ]
+      },
+      {
+        "type": "text",
+        "x_pct": 71.93,
+        "y_pct": 3.95,
+        "w_pct": 4.02,
+        "h_pct": 1.92,
+        "text": [
+          "Photo"
+        ]
+      },
+      {
+        "type": "text",
+        "x_pct": 65.06,
+        "y_pct": 3.95,
+        "w_pct": 4.43,
+        "h_pct": 1.92,
+        "text": [
+          "Home"
+        ]
+      },
+      {
+        "type": "text",
+        "x_pct": 93.43,
+        "y_pct": 93.46,
+        "w_pct": 4.43,
+        "h_pct": 1.92,
+        "text": [
+          "Page | 07"
+        ]
+      },
+      {
+        "type": "text",
+        "x_pct": 11.22,
+        "y_pct": 72.71,
+        "w_pct": 14.96,
+        "h_pct": 2.34,
+        "text": [
+          "Brigitte Schwartz"
+        ]
+      },
+      {
+        "type": "text",
+        "x_pct": 10.36,
+        "y_pct": 77.37,
+        "w_pct": 16.67,
+        "h_pct": 8.03,
+        "text": [
+          "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim"
+        ]
+      },
+      {
+        "type": "text",
+        "x_pct": 32.09,
+        "y_pct": 66.23,
+        "w_pct": 14.96,
+        "h_pct": 2.34,
+        "text": [
+          "Alfredo Torres"
+        ]
+      },
+      {
+        "type": "text",
+        "x_pct": 31.23,
+        "y_pct": 70.88,
+        "w_pct": 16.67,
+        "h_pct": 8.03,
+        "text": [
+          "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim"
+        ]
+      },
+      {
+        "type": "text",
+        "x_pct": 52.96,
+        "y_pct": 72.71,
+        "w_pct": 14.96,
+        "h_pct": 2.34,
+        "text": [
+          "Adora Montminy"
+        ]
+      },
+      {
+        "type": "text",
+        "x_pct": 52.1,
+        "y_pct": 77.37,
+        "w_pct": 16.67,
+        "h_pct": 8.03,
+        "text": [
+          "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim"
+        ]
+      },
+      {
+        "type": "text",
+        "x_pct": 73.82,
+        "y_pct": 66.23,
+        "w_pct": 14.96,
+        "h_pct": 2.34,
+        "text": [
+          "Daniel Gallego"
+        ]
+      },
+      {
+        "type": "text",
+        "x_pct": 72.97,
+        "y_pct": 70.88,
+        "w_pct": 16.67,
+        "h_pct": 8.03,
+        "text": [
+          "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim"
+        ]
+      },
+      {
+        "type": "text",
+        "x_pct": 21.34,
+        "y_pct": 18.8,
+        "w_pct": 57.32,
+        "h_pct": 8.35,
+        "text": [
+          "Meet My Team"
+        ]
+      }
+    ]
+  },
+  {
+    "slide_num": 8,
+    "width": 18288000,
+    "height": 10287000,
+    "elements": [
+      {
+        "type": "image",
+        "x_pct": 0.0,
+        "y_pct": 0.0,
+        "w_pct": 56.79,
+        "h_pct": 100.95,
+        "image_file": "image20.jpeg"
+      },
+      {
+        "type": "image",
+        "x_pct": 0.0,
+        "y_pct": 0.0,
+        "w_pct": 59.17,
+        "h_pct": 47.62,
+        "image_file": "image21.jpeg"
+      },
+      {
+        "type": "shape",
+        "x_pct": 0.0,
+        "y_pct": 0.0,
+        "w_pct": 26.34,
+        "h_pct": 2.63,
+        "text": []
+      },
+      {
+        "type": "shape",
+        "x_pct": 0.0,
+        "y_pct": -0.37,
+        "w_pct": 26.34,
+        "h_pct": 3.0,
+        "text": []
+      },
+      {
+        "type": "shape",
+        "x_pct": 0.0,
+        "y_pct": 0.0,
+        "w_pct": 0.7,
+        "h_pct": 0.09,
+        "text": []
+      },
+      {
+        "type": "shape",
+        "x_pct": 0.0,
+        "y_pct": -0.37,
+        "w_pct": 0.7,
+        "h_pct": 0.46,
+        "text": []
+      },
+      {
+        "type": "shape",
+        "x_pct": 0.0,
+        "y_pct": 0.0,
+        "w_pct": 0.7,
+        "h_pct": 0.09,
+        "text": []
+      },
+      {
+        "type": "shape",
+        "x_pct": 0.0,
+        "y_pct": -0.37,
+        "w_pct": 0.7,
+        "h_pct": 0.46,
+        "text": []
+      },
+      {
+        "type": "shape",
+        "x_pct": 54.29,
+        "y_pct": 70.34,
+        "w_pct": 7.67,
+        "h_pct": 0.0,
+        "text": []
+      },
+      {
+        "type": "text",
+        "x_pct": 3.08,
+        "y_pct": 3.95,
+        "w_pct": 15.42,
+        "h_pct": 1.92,
+        "text": [
+          "Adeline Palmerston"
+        ]
+      },
+      {
+        "type": "text",
+        "x_pct": 87.17,
+        "y_pct": 3.95,
+        "w_pct": 5.35,
+        "h_pct": 1.92,
+        "text": [
+          "Contact"
+        ]
+      },
+      {
+        "type": "text",
+        "x_pct": 78.66,
+        "y_pct": 3.95,
+        "w_pct": 5.8,
+        "h_pct": 1.92,
+        "text": [
+          "About Me"
+        ]
+      },
+      {
+        "type": "text",
+        "x_pct": 71.93,
+        "y_pct": 3.95,
+        "w_pct": 4.02,
+        "h_pct": 1.92,
+        "text": [
+          "Photo"
+        ]
+      },
+      {
+        "type": "text",
+        "x_pct": 65.06,
+        "y_pct": 3.95,
+        "w_pct": 4.43,
+        "h_pct": 1.92,
+        "text": [
+          "Home"
+        ]
+      },
+      {
+        "type": "text",
+        "x_pct": 93.43,
+        "y_pct": 93.46,
+        "w_pct": 4.43,
+        "h_pct": 1.92,
+        "text": [
+          "Page | 08"
+        ]
+      },
+      {
+        "type": "text",
+        "x_pct": 54.29,
+        "y_pct": 60.43,
+        "w_pct": 30.17,
+        "h_pct": 8.35,
+        "text": [
+          "My Portfolio"
+        ]
+      },
+      {
+        "type": "text",
+        "x_pct": 54.29,
+        "y_pct": 76.57,
+        "w_pct": 35.55,
+        "h_pct": 6.0,
+        "text": [
+          "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo"
+        ]
+      }
+    ]
+  },
+  {
+    "slide_num": 9,
+    "width": 18288000,
+    "height": 10287000,
+    "elements": [
+      {
+        "type": "image",
+        "x_pct": 0.0,
+        "y_pct": 0.0,
+        "w_pct": 52.28,
+        "h_pct": 120.0,
+        "image_file": "image22.jpeg"
+      },
+      {
+        "type": "shape",
+        "x_pct": 0.0,
+        "y_pct": 0.0,
+        "w_pct": 26.34,
+        "h_pct": 2.63,
+        "text": []
+      },
+      {
+        "type": "shape",
+        "x_pct": 0.0,
+        "y_pct": -0.37,
+        "w_pct": 26.34,
+        "h_pct": 3.0,
+        "text": []
+      },
+      {
+        "type": "shape",
+        "x_pct": 0.0,
+        "y_pct": 0.0,
+        "w_pct": 0.7,
+        "h_pct": 0.09,
+        "text": []
+      },
+      {
+        "type": "shape",
+        "x_pct": 0.0,
+        "y_pct": -0.37,
+        "w_pct": 0.7,
+        "h_pct": 0.46,
+        "text": []
+      },
+      {
+        "type": "shape",
+        "x_pct": 0.0,
+        "y_pct": 0.0,
+        "w_pct": 0.7,
+        "h_pct": 0.09,
+        "text": []
+      },
+      {
+        "type": "shape",
+        "x_pct": 0.0,
+        "y_pct": -0.37,
+        "w_pct": 0.7,
+        "h_pct": 0.46,
+        "text": []
+      },
+      {
+        "type": "shape",
+        "x_pct": 58.91,
+        "y_pct": 34.76,
+        "w_pct": 7.67,
+        "h_pct": 0.0,
+        "text": []
+      },
+      {
+        "type": "shape",
+        "x_pct": 58.91,
+        "y_pct": 58.19,
+        "w_pct": 1.24,
+        "h_pct": 2.2,
+        "text": []
+      },
+      {
+        "type": "shape",
+        "x_pct": 58.91,
+        "y_pct": 63.28,
+        "w_pct": 1.24,
+        "h_pct": 2.2,
+        "text": []
+      },
+      {
+        "type": "shape",
+        "x_pct": 58.91,
+        "y_pct": 68.35,
+        "w_pct": 1.24,
+        "h_pct": 2.2,
+        "text": []
+      },
+      {
+        "type": "shape",
+        "x_pct": 58.91,
+        "y_pct": 73.42,
+        "w_pct": 1.24,
+        "h_pct": 2.2,
+        "text": []
+      },
+      {
+        "type": "text",
+        "x_pct": 3.08,
+        "y_pct": 3.95,
+        "w_pct": 15.42,
+        "h_pct": 1.92,
+        "text": [
+          "Adeline Palmerston"
+        ]
+      },
+      {
+        "type": "text",
+        "x_pct": 87.17,
+        "y_pct": 3.95,
+        "w_pct": 5.35,
+        "h_pct": 1.92,
+        "text": [
+          "Contact"
+        ]
+      },
+      {
+        "type": "text",
+        "x_pct": 78.66,
+        "y_pct": 3.95,
+        "w_pct": 5.8,
+        "h_pct": 1.92,
+        "text": [
+          "About Me"
+        ]
+      },
+      {
+        "type": "text",
+        "x_pct": 71.93,
+        "y_pct": 3.95,
+        "w_pct": 4.02,
+        "h_pct": 1.92,
+        "text": [
+          "Photo"
+        ]
+      },
+      {
+        "type": "text",
+        "x_pct": 65.06,
+        "y_pct": 3.95,
+        "w_pct": 4.43,
+        "h_pct": 1.92,
+        "text": [
+          "Home"
+        ]
+      },
+      {
+        "type": "text",
+        "x_pct": 93.43,
+        "y_pct": 93.46,
+        "w_pct": 4.43,
+        "h_pct": 1.92,
+        "text": [
+          "Page | 09"
+        ]
+      },
+      {
+        "type": "text",
+        "x_pct": 58.91,
+        "y_pct": 24.85,
+        "w_pct": 30.17,
+        "h_pct": 8.35,
+        "text": [
+          "My Contact"
+        ]
+      },
+      {
+        "type": "text",
+        "x_pct": 61.15,
+        "y_pct": 58.22,
+        "w_pct": 12.29,
+        "h_pct": 1.94,
+        "text": [
+          "+123-456-7890"
+        ]
+      },
+      {
+        "type": "text",
+        "x_pct": 61.15,
+        "y_pct": 63.31,
+        "w_pct": 12.29,
+        "h_pct": 1.94,
+        "text": [
+          "www.reallygreatsite.com"
+        ]
+      },
+      {
+        "type": "text",
+        "x_pct": 61.15,
+        "y_pct": 68.42,
+        "w_pct": 12.29,
+        "h_pct": 1.94,
+        "text": [
+          "hello@reallygreatsite.com"
+        ]
+      },
+      {
+        "type": "text",
+        "x_pct": 61.15,
+        "y_pct": 73.56,
+        "w_pct": 16.67,
+        "h_pct": 1.94,
+        "text": [
+          "123 Anywhere ST., Any City, ST 12345"
+        ]
+      },
+      {
+        "type": "text",
+        "x_pct": 58.91,
+        "y_pct": 43.03,
+        "w_pct": 30.98,
+        "h_pct": 10.07,
+        "text": [
+          "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat "
+        ]
+      }
+    ]
+  },
+  {
+    "slide_num": 10,
+    "width": 18288000,
+    "height": 10287000,
+    "elements": [
+      {
+        "type": "image",
+        "x_pct": 0.0,
+        "y_pct": 0.0,
+        "w_pct": 66.67,
+        "h_pct": 106.67,
+        "image_file": "image31.jpeg"
+      },
+      {
+        "type": "shape",
+        "x_pct": 0.0,
+        "y_pct": 0.0,
+        "w_pct": 26.34,
+        "h_pct": 2.63,
+        "text": []
+      },
+      {
+        "type": "shape",
+        "x_pct": 0.0,
+        "y_pct": -0.37,
+        "w_pct": 26.34,
+        "h_pct": 3.0,
+        "text": []
+      },
+      {
+        "type": "shape",
+        "x_pct": 0.0,
+        "y_pct": 0.0,
+        "w_pct": 0.7,
+        "h_pct": 0.09,
+        "text": []
+      },
+      {
+        "type": "shape",
+        "x_pct": 0.0,
+        "y_pct": -0.37,
+        "w_pct": 0.7,
+        "h_pct": 0.46,
+        "text": []
+      },
+      {
+        "type": "shape",
+        "x_pct": 0.0,
+        "y_pct": 0.0,
+        "w_pct": 0.7,
+        "h_pct": 0.09,
+        "text": []
+      },
+      {
+        "type": "shape",
+        "x_pct": 0.0,
+        "y_pct": -0.37,
+        "w_pct": 0.7,
+        "h_pct": 0.46,
+        "text": []
+      },
+      {
+        "type": "shape",
+        "x_pct": 10.79,
+        "y_pct": 35.62,
+        "w_pct": 7.67,
+        "h_pct": 0.0,
+        "text": []
+      },
+      {
+        "type": "text",
+        "x_pct": 3.08,
+        "y_pct": 3.95,
+        "w_pct": 15.42,
+        "h_pct": 1.92,
+        "text": [
+          "Adeline Palmerston"
+        ]
+      },
+      {
+        "type": "text",
+        "x_pct": 87.17,
+        "y_pct": 3.95,
+        "w_pct": 5.35,
+        "h_pct": 1.92,
+        "text": [
+          "Contact"
+        ]
+      },
+      {
+        "type": "text",
+        "x_pct": 78.66,
+        "y_pct": 3.95,
+        "w_pct": 5.8,
+        "h_pct": 1.92,
+        "text": [
+          "About Me"
+        ]
+      },
+      {
+        "type": "text",
+        "x_pct": 71.93,
+        "y_pct": 3.95,
+        "w_pct": 4.02,
+        "h_pct": 1.92,
+        "text": [
+          "Photo"
+        ]
+      },
+      {
+        "type": "text",
+        "x_pct": 65.06,
+        "y_pct": 3.95,
+        "w_pct": 4.43,
+        "h_pct": 1.92,
+        "text": [
+          "Home"
+        ]
+      },
+      {
+        "type": "text",
+        "x_pct": 93.43,
+        "y_pct": 93.46,
+        "w_pct": 4.43,
+        "h_pct": 1.92,
+        "text": [
+          "Page | 10"
+        ]
+      },
+      {
+        "type": "text",
+        "x_pct": 10.79,
+        "y_pct": 25.71,
+        "w_pct": 27.77,
+        "h_pct": 8.35,
+        "text": [
+          "Thank You"
+        ]
+      },
+      {
+        "type": "text",
+        "x_pct": 10.79,
+        "y_pct": 43.14,
+        "w_pct": 29.11,
+        "h_pct": 12.1,
+        "text": [
+          "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa "
+        ]
+      },
+      {
+        "type": "text",
+        "x_pct": 10.79,
+        "y_pct": 62.65,
+        "w_pct": 29.11,
+        "h_pct": 12.1,
+        "text": [
+          "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa "
+        ]
+      }
+    ]
+  }
+]

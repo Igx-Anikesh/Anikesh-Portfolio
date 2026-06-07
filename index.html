@@ -1,0 +1,184 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Anikesh | Portfolio</title>
+    <meta name="description" content="Black White Grayscale Portfolio of Anikesh. Sleek horizontal scrolling, minimalist layout, and premium responsive web design.">
+    <!-- Google Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@200;300;400;500;600;700;800&family=Open+Sans:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="index.css?v=13">
+</head>
+<body>
+
+    <!-- Custom Cursor -->
+    <div class="custom-cursor"></div>
+    <div class="custom-cursor-follower"></div>
+
+    <!-- Active Indicators / Bottom Progress Bar -->
+    <div class="portfolio-progress">
+        <div class="progress-bar" id="progressBar"></div>
+    </div>
+
+    <!-- Sticky Global Header -->
+    <header class="global-header">
+        <a href="#slide-1" class="logo" data-target="0">Anikesh</a>
+        <div class="nav-container">
+            <nav class="nav-links">
+                <a href="#slide-2" class="nav-item" data-target="1">Home</a>
+                <a href="#slide-3" class="nav-item" data-target="2">Photo</a>
+                <a href="#slide-3" class="nav-item" data-target="2">About Me</a>
+                <a href="#slide-9" class="nav-item" data-target="8">Contact</a>
+            </nav>
+            <div class="menu-toggle" id="menuToggle" aria-label="Toggle Menu" role="button">
+                <span class="bar"></span>
+                <span class="bar"></span>
+            </div>
+        </div>
+    </header>
+
+    <!-- Fullscreen Overlay Navigation Menu -->
+    <div class="overlay-menu" id="overlayMenu">
+        <nav class="overlay-nav">
+            <a href="#slide-1" class="overlay-item" data-target="0">
+                <span class="num">01</span>
+                <span class="title">Cover</span>
+            </a>
+            <a href="#slide-2" class="overlay-item" data-target="1">
+                <span class="num">02</span>
+                <span class="title">Introduction</span>
+            </a>
+            <a href="#slide-3" class="overlay-item" data-target="2">
+                <span class="num">03</span>
+                <span class="title">About Me</span>
+            </a>
+            <a href="#slide-4" class="overlay-item" data-target="3">
+                <span class="num">04</span>
+                <span class="title">My Vision</span>
+            </a>
+            <a href="#slide-5" class="overlay-item" data-target="4">
+                <span class="num">05</span>
+                <span class="title">My Mission</span>
+            </a>
+            <a href="#slide-6" class="overlay-item" data-target="5">
+                <span class="num">06</span>
+                <span class="title">My Favorite Portfolio</span>
+            </a>
+            <a href="#slide-7" class="overlay-item" data-target="6">
+                <span class="num">07</span>
+                <span class="title">Meet My Team</span>
+            </a>
+            <a href="#slide-8" class="overlay-item" data-target="7">
+                <span class="num">08</span>
+                <span class="title">Portfolio Highlights</span>
+            </a>
+            <a href="#slide-9" class="overlay-item" data-target="8">
+                <span class="num">09</span>
+                <span class="title">My Contact</span>
+            </a>
+            <a href="#slide-10" class="overlay-item" data-target="9">
+                <span class="num">10</span>
+                <span class="title">Thank You</span>
+            </a>
+        </nav>
+    </div>
+
+    <!-- Edge Scroll Hover Zones (Desktop) -->
+    <div class="hover-scroll-zone hover-scroll-left" id="hoverLeft">
+        <div class="hover-chevron"></div>
+    </div>
+    <div class="hover-scroll-zone hover-scroll-right" id="hoverRight">
+        <div class="hover-chevron"></div>
+    </div>
+
+    <!-- Main Scroll Container -->
+    <div class="portfolio-container" id="portfolioContainer">
+        <div class="portfolio-wrapper" id="portfolioWrapper">
+
+            <!-- SLIDE 1 -->
+            <section class="slide active" id="slide-1" data-index="0">
+                <div class="slide-inner"></div>
+                <div class="mobile-inner"></div>
+            </section>
+
+            <!-- SLIDE 2 -->
+            <section class="slide" id="slide-2" data-index="1">
+                <div class="slide-inner"></div>
+                <div class="mobile-inner"></div>
+            </section>
+
+            <!-- SLIDE 3 -->
+            <section class="slide" id="slide-3" data-index="2">
+                <div class="slide-inner"></div>
+                <div class="mobile-inner"></div>
+            </section>
+
+            <!-- SLIDE 4 -->
+            <section class="slide" id="slide-4" data-index="3">
+                <div class="slide-inner"></div>
+                <div class="mobile-inner"></div>
+            </section>
+
+            <!-- SLIDE 5 -->
+            <section class="slide" id="slide-5" data-index="4">
+                <div class="slide-inner"></div>
+                <div class="mobile-inner"></div>
+            </section>
+
+            <!-- SLIDE 6 -->
+            <section class="slide" id="slide-6" data-index="5">
+                <div class="slide-inner"></div>
+                <div class="mobile-inner"></div>
+            </section>
+
+            <!-- SLIDE 7 -->
+            <section class="slide" id="slide-7" data-index="6">
+                <div class="slide-inner"></div>
+                <div class="mobile-inner"></div>
+            </section>
+
+            <!-- SLIDE 8 -->
+            <section class="slide" id="slide-8" data-index="7">
+                <div class="slide-inner"></div>
+                <div class="mobile-inner"></div>
+            </section>
+
+            <!-- SLIDE 9 -->
+            <section class="slide" id="slide-9" data-index="8">
+                <div class="slide-inner"></div>
+                <div class="mobile-inner"></div>
+            </section>
+
+            <!-- SLIDE 10 -->
+            <section class="slide" id="slide-10" data-index="9">
+                <div class="slide-inner"></div>
+                <div class="mobile-inner"></div>
+            </section>
+
+        </div>
+    </div>
+
+    <!-- Video Modal Player -->
+    <div class="video-modal" id="videoModal">
+        <div class="video-modal-backdrop"></div>
+        <div class="video-modal-content">
+            <button class="video-modal-close" id="closeVideoModal" aria-label="Close Modal">&times;</button>
+            <div class="video-wrapper">
+                <iframe src="https://player.vimeo.com/video/335805561?color=ffffff&title=0&byline=0&portrait=0" width="100%" height="100%" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+            </div>
+        </div>
+    </div>
+
+    <!-- Toast Notification -->
+    <div class="toast" id="toastNotification">
+        <span class="toast-message"></span>
+    </div>
+
+    <!-- JS Files -->
+    <script src="slidesData.js?v=13"></script>
+    <script src="portfolioContent.js?v=13"></script>
+    <script src="app.js?v=13"></script>
+</body>
+</html>

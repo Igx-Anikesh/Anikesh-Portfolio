@@ -1,0 +1,16 @@
+# Ignore media/image assets
+media/
+slides/
+New folder/
+
+# Ignore PPTX files
+*.pptx
+*.ppt
+
+# Ignore temporary/log files
+*.log
+.system_generated/
+scratch/
+walkthrough.md
+task.md
+implementation_plan.md
