@@ -2,7 +2,7 @@
 const portfolioContent = {
     // Slide 1 (Hero Page)
     slide1: {
-        title: "ANIKESH",
+        title: "Anikesh",
         subtitle: "Building Products.<br>Writing Stories.",
         description: "Developer, writer, and creator building digital products while crafting stories that stay with people long after the final page.",
         image: "anikesh_portrait.png",
