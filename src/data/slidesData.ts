@@ -1,4 +1,4 @@
-const slidesData = [
+export const slidesData: any[] = [
   {
     "slide_num": 1,
     "width_emu": 18288000,
@@ -3499,7 +3499,7 @@ const slidesData = [
             "align": "left",
             "runs": [
               {
-                "text": "www.reallygreatsite.com",
+                "text": "www.linkedin.com/in/igx-anikesh",
                 "size": 12.0,
                 "bold": false,
                 "italic": false,
